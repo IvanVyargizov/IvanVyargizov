@@ -1,4 +1,4 @@
-### Welcome 🙂
+### Welcome 👋
 
 - email: vyargizov@gmail.com
 - telegram: [@Ivan_Vyargizov](https://t.me/Ivan_Vyargizov)
