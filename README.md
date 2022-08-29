@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome 🙂
+
+- email: vyargizov@gmail.com
+- telegram: [@Ivan_Vyargizov](https://t.me/Ivan_Vyargizov)
+- CV: [hexlet](https://cv.hexlet.io/resumes/1297)
+
+
 
 <!--
 **IvanVyargizov/IvanVyargizov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
