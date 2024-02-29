@@ -2,7 +2,7 @@
 
 - email: vyargizov@gmail.com
 - telegram: [@Ivan_Vyargizov](https://t.me/Ivan_Vyargizov)
-- CV:
+- CV: [CV](https://docs.google.com/document/d/12TINWqQI3lGpG8jufrgVeR5mch17arzOcipIRytGs8E/edit?usp=sharing)
 
 
 
